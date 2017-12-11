@@ -1,3 +1,42 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Helvetica;
+}
+
+.main-title {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.links {
+  font-size: 18px;
+  color: white;
+}
+
+.process {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.item-process {
+  font-size: 23px;
+  font-weight: bold;
+}
+
 p {
-  color: yellow;
+  font-size: 14px;
+}
+
+.middle-title {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.contact {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
