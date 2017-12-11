@@ -4,15 +4,26 @@ body {
   font-family: Helvetica;
 }
 
+ul {
+  list-style-type: none;
+  line-height: 27px;
+}
+
 .main-title {
   font-size: 70px;
   font-weight: bold;
   color: white;
+  text-align: center;
+}
+
+.fundo {
+  background-image: url("./img/building.png");
 }
 
 .links {
   font-size: 18px;
   color: white;
+  text-align: center;
 }
 
 .process {
