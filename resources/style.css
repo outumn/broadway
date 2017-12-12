@@ -20,11 +20,27 @@ ul {
   background-image: url("./img/building.png");
 }
 
+.center {
+  text-align: center;
+}
+
 .links {
   font-size: 18px;
   color: white;
   text-align: center;
+
 }
+
+a:link,
+a:active,
+a:hover,
+a:enabled {
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+
 
 .process {
   font-size: 32px;
@@ -44,10 +60,14 @@ p {
   font-size: 23px;
   font-weight: bold;
   color: white;
+  text-align: center;
 }
 
-.contact {
+.footer {
   font-size: 11px;
-  color: white;
+  color: white
+}
+
+.footer-back {
   background-color: dimgray;
 }
